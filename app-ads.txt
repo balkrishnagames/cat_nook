@@ -1,0 +1,4 @@
+# app-ads.txt — Balkrishna Enterprise
+# Must be reachable at the ROOT of the Developer Website URL set in
+# the Play Console listing, over https: https://balkrishnagames.github.io/app-ads.txt
+google.com, pub-6411090777007496, DIRECT, f08c47fec0942fa0
